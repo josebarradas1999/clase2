@@ -7,3 +7,6 @@ version tres
 cambios para la version 4
 
 cambios version 5
+
+
+se agrego el archivo main.psc pra iniciar la programacion
